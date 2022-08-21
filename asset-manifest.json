@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pokemon-React/static/css/main.1a56a9f9.css",
+    "main.js": "/Pokemon-React/static/js/main.a655f646.js",
+    "static/media/logo-pokemon1.png": "/Pokemon-React/static/media/logo-pokemon1.b3af965d7f3aaecc42b9.png",
+    "index.html": "/Pokemon-React/index.html",
+    "main.1a56a9f9.css.map": "/Pokemon-React/static/css/main.1a56a9f9.css.map",
+    "main.a655f646.js.map": "/Pokemon-React/static/js/main.a655f646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a56a9f9.css",
+    "static/js/main.a655f646.js"
+  ]
+}
